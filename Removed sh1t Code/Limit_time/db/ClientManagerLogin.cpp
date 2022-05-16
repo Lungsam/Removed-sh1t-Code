@@ -1,4 +1,4 @@
-search and delete this:
+search and delete:
 
 #ifdef ENABLE_LIMIT_TIME
 	static int s_updateCount = 0;
